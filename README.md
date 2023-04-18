@@ -16,6 +16,8 @@ repeating the process from task (a), but instead of computing a 100x100 correlat
 
 ### Task D
 
+creating a matrix Y by multiplying X with its transpose (XX^T). We will then find the first six eigenvectors with the largest magnitude eigenvalue of this matrix Y. This task will help us identify the most important directions in the data that capture the most variation.
+
 ### Task E
 
 ### Task F
